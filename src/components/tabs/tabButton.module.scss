@@ -3,7 +3,7 @@
 @import "../../assets/variables";
 
 .tabItem {
-  padding: 5px;
+  padding: 10px;
   height: 6.8rem;
   cursor: pointer;
   border-bottom: 2px solid transparent;
@@ -16,6 +16,7 @@
   font-weight: $Bold-700;
   color: $para-text;
   position: relative;
+  white-space: nowrap;
   span {
     display: block;
     width: 3.2rem;
