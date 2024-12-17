@@ -11,7 +11,7 @@ const QuestionSection = ({ data }) => {
         <div className="container">
           <Heading heading="Your Questions, Answered Clearly and Quickly" />
           <div className={styles.heading}>
-            <SectionTitle sectionTitle="Frequently Asked questions" />
+            <SectionTitle sectionTitle="Frequently Asked questionssss" />
           </div>
           
           <div className={styles.contentWrapper}>
